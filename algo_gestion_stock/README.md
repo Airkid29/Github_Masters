@@ -47,8 +47,9 @@ Ce pseudo-code peut être :
 
 ## Auteur
 Projet académique – Gestion de stock  
-BAWA Abdoul-Rachid
-ASSORO Anne-marie
-TCHALLA Barnabé
-WOTOGLO Kevin
+
+-BAWA Abdoul-Rachid
+-ASSORO Anne-marie
+-TCHALLA Barnabé
+-WOTOGLO Kevin
 Licence 3 / Algorithmique
